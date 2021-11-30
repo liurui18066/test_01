@@ -1,4 +1,7 @@
 这是一个测试
+<<<<<<< HEAD
 
 git is easy
 git is difficult
+=======
+>>>>>>> parent of e48c653 (Update test)
